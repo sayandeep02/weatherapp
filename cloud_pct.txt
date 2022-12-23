@@ -1,0 +1,10 @@
+cloud_pct.innerHTMLresponse. cloud_pct
+    temp.innerHTMLresponse.temp
+    feels_like.innerHTMLresponse.feels_like
+    humidity.innerHTMLresponse.humidity
+    min_temp.innerHTMLresponse.min_temp
+    max_temp.innerHTMLresponse.max_temp
+    wind_speed.innerHTMLresponse.wind_speed
+    wind_degrees.innerHTMLresponse.wind_degrees
+    sunrise.innerHTMLresponse.sunrise
+    sunset.innerHTMLresponse.sunset
